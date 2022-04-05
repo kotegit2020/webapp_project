@@ -12,7 +12,9 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1649154849,,"wq!"
+|2,0,1649158233,,"wq!"
+:q!
+|2,0,1649158191,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -25,28 +27,114 @@
 # Registers:
 
 # File marks:
-'0  3  28  ~/webapp_project/src/main/webapp/index.jsp
-|4,48,3,28,1649154849,"~/webapp_project/src/main/webapp/index.jsp"
-'1  11  2  ~/.bash_profile
-|4,49,11,2,1649154012,"~/.bash_profile"
-'2  13  43  ~/.bash_profile
-|4,50,13,43,1649152741,"~/.bash_profile"
-'3  13  43  ~/.bash_profile
-|4,51,13,43,1649152741,"~/.bash_profile"
-'4  12  30  ~/.bash_profile
-|4,52,12,30,1649152231,"~/.bash_profile"
-'5  12  30  ~/.bash_profile
-|4,53,12,30,1649152231,"~/.bash_profile"
+'0  3  52  ~/webapp_project/src/main/webapp/index.jsp
+|4,48,3,52,1649158233,"~/webapp_project/src/main/webapp/index.jsp"
+'1  1  0  /webapp_project/src/main/webapp/index.jsp
+|4,49,1,0,1649158191,"/webapp_project/src/main/webapp/index.jsp"
+'2  1  0  /webapp_project/src/main/webapp/index.jsp
+|4,50,1,0,1649158176,"/webapp_project/src/main/webapp/index.jsp"
+'3  3  28  ~/webapp_project/src/main/webapp/index.jsp
+|4,51,3,28,1649154849,"~/webapp_project/src/main/webapp/index.jsp"
+'4  11  2  ~/.bash_profile
+|4,52,11,2,1649154012,"~/.bash_profile"
+'5  13  43  ~/.bash_profile
+|4,53,13,43,1649152741,"~/.bash_profile"
+'6  13  43  ~/.bash_profile
+|4,54,13,43,1649152741,"~/.bash_profile"
+'7  12  30  ~/.bash_profile
+|4,55,12,30,1649152231,"~/.bash_profile"
+'8  12  30  ~/.bash_profile
+|4,56,12,30,1649152231,"~/.bash_profile"
 
 # Jumplist (newest first):
+-'  3  52  ~/webapp_project/src/main/webapp/index.jsp
+|4,39,3,52,1649158233,"~/webapp_project/src/main/webapp/index.jsp"
+-'  1  0  /webapp_project/src/main/webapp/index.jsp
+|4,39,1,0,1649158191,"/webapp_project/src/main/webapp/index.jsp"
+-'  1  0  /webapp_project/src/main/webapp/index.jsp
+|4,39,1,0,1649158191,"/webapp_project/src/main/webapp/index.jsp"
+-'  1  0  /webapp_project/src/main/webapp/index.jsp
+|4,39,1,0,1649158176,"/webapp_project/src/main/webapp/index.jsp"
+-'  1  0  /webapp_project/src/main/webapp/index.jsp
+|4,39,1,0,1649158176,"/webapp_project/src/main/webapp/index.jsp"
 -'  3  28  ~/webapp_project/src/main/webapp/index.jsp
 |4,39,3,28,1649154849,"~/webapp_project/src/main/webapp/index.jsp"
+-'  3  28  ~/webapp_project/src/main/webapp/index.jsp
+|4,39,3,28,1649154849,"~/webapp_project/src/main/webapp/index.jsp"
+-'  3  28  ~/webapp_project/src/main/webapp/index.jsp
+|4,39,3,28,1649154849,"~/webapp_project/src/main/webapp/index.jsp"
+-'  3  28  ~/webapp_project/src/main/webapp/index.jsp
+|4,39,3,28,1649154849,"~/webapp_project/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp_project/src/main/webapp/index.jsp
+|4,39,1,0,1649154823,"~/webapp_project/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp_project/src/main/webapp/index.jsp
+|4,39,1,0,1649154823,"~/webapp_project/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp_project/src/main/webapp/index.jsp
+|4,39,1,0,1649154823,"~/webapp_project/src/main/webapp/index.jsp"
+-'  1  0  ~/webapp_project/src/main/webapp/index.jsp
+|4,39,1,0,1649154823,"~/webapp_project/src/main/webapp/index.jsp"
 -'  1  0  ~/webapp_project/src/main/webapp/index.jsp
 |4,39,1,0,1649154823,"~/webapp_project/src/main/webapp/index.jsp"
 -'  11  2  ~/.bash_profile
 |4,39,11,2,1649154012,"~/.bash_profile"
 -'  11  2  ~/.bash_profile
 |4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  11  2  ~/.bash_profile
+|4,39,11,2,1649154012,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649153984,"~/.bash_profile"
 -'  13  43  ~/.bash_profile
 |4,39,13,43,1649153984,"~/.bash_profile"
 -'  13  43  ~/.bash_profile
@@ -55,6 +143,90 @@
 |4,39,13,43,1649152741,"~/.bash_profile"
 -'  13  43  ~/.bash_profile
 |4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  13  43  ~/.bash_profile
+|4,39,13,43,1649152741,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
+-'  12  30  ~/.bash_profile
+|4,39,12,30,1649152231,"~/.bash_profile"
 -'  12  30  ~/.bash_profile
 |4,39,12,30,1649152231,"~/.bash_profile"
 -'  12  30  ~/.bash_profile
@@ -79,11 +251,16 @@
 # History of marks within files (newest to oldest):
 
 > ~/webapp_project/src/main/webapp/index.jsp
-	*	1649154844	0
-	"	3	28
-	^	3	29
-	.	3	28
-	+	3	28
+	*	1649158231	0
+	"	3	52
+	^	3	53
+	.	3	52
+	+	3	52
+
+> /webapp_project/src/main/webapp/index.jsp
+	*	1649158190	0
+	"	1	0
+	^	1	0
 
 > ~/.bash_profile
 	*	1649154010	0
